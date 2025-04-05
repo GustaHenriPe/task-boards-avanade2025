@@ -1,0 +1,81 @@
+abr. 05, 2025 6:11:03 PM liquibase.changelog
+INFORMAÇÕES: Reading resource: db/changelog/migrations/db.changelog-202504050037.sql
+abr. 05, 2025 6:11:03 PM liquibase.changelog
+INFORMAÇÕES: Reading resource: db/changelog/migrations/db.changelog-202504050038.sql
+abr. 05, 2025 6:11:03 PM liquibase.changelog
+INFORMAÇÕES: Reading resource: db/changelog/migrations/db.changelog-202504050039.sql
+abr. 05, 2025 6:11:03 PM liquibase.changelog
+INFORMAÇÕES: Reading resource: db/changelog/migrations/db.changelog-202504050040.sql
+abr. 05, 2025 6:11:03 PM liquibase.changelog
+INFORMAÇÕES: Reading resource: db/changelog/migrations/db.changelog-202504050041.sql
+abr. 05, 2025 6:11:03 PM liquibase.changelog
+INFORMAÇÕES: Reading resource: db/changelog/migrations/db.changelog-202504051747.sql
+abr. 05, 2025 6:11:03 PM liquibase.changelog
+INFORMAÇÕES: Creating database history table with name: board.DATABASECHANGELOG
+abr. 05, 2025 6:11:03 PM liquibase.changelog
+INFORMAÇÕES: Reading from board.DATABASECHANGELOG
+abr. 05, 2025 6:11:03 PM liquibase.lockservice
+INFORMAÇÕES: Successfully acquired change log lock
+abr. 05, 2025 6:11:03 PM liquibase.command
+INFORMAÇÕES: Using deploymentId: 3887463779
+abr. 05, 2025 6:11:03 PM liquibase.changelog
+INFORMAÇÕES: Reading from board.DATABASECHANGELOG
+Running Changeset: db/changelog/migrations/db.changelog-202504050037.sql::202504050037::gustavo
+abr. 05, 2025 6:11:03 PM liquibase.changelog
+INFORMAÇÕES: Custom SQL executed
+abr. 05, 2025 6:11:03 PM liquibase.changelog
+INFORMAÇÕES: ChangeSet db/changelog/migrations/db.changelog-202504050037.sql::202504050037::gustavo ran successfully in 44ms
+Running Changeset: db/changelog/migrations/db.changelog-202504050038.sql::202504050037::gustavo
+abr. 05, 2025 6:11:03 PM liquibase.changelog
+INFORMAÇÕES: Custom SQL executed
+abr. 05, 2025 6:11:03 PM liquibase.changelog
+INFORMAÇÕES: ChangeSet db/changelog/migrations/db.changelog-202504050038.sql::202504050037::gustavo ran successfully in 40ms
+Running Changeset: db/changelog/migrations/db.changelog-202504050039.sql::202504050037::gustavo
+abr. 05, 2025 6:11:03 PM liquibase.changelog
+INFORMAÇÕES: Custom SQL executed
+abr. 05, 2025 6:11:03 PM liquibase.changelog
+INFORMAÇÕES: ChangeSet db/changelog/migrations/db.changelog-202504050039.sql::202504050037::gustavo ran successfully in 33ms
+Running Changeset: db/changelog/migrations/db.changelog-202504050040.sql::202504050037::gustavo
+abr. 05, 2025 6:11:04 PM liquibase.changelog
+INFORMAÇÕES: Custom SQL executed
+abr. 05, 2025 6:11:04 PM liquibase.changelog
+INFORMAÇÕES: ChangeSet db/changelog/migrations/db.changelog-202504050040.sql::202504050037::gustavo ran successfully in 33ms
+Running Changeset: db/changelog/migrations/db.changelog-202504050041.sql::202504050037::gustavo
+abr. 05, 2025 6:11:04 PM liquibase.changelog
+INFORMAÇÕES: Custom SQL executed
+abr. 05, 2025 6:11:04 PM liquibase.changelog
+INFORMAÇÕES: ChangeSet db/changelog/migrations/db.changelog-202504050041.sql::202504050037::gustavo ran successfully in 49ms
+Running Changeset: db/changelog/migrations/db.changelog-202504051747.sql::202504060001::gustavo
+abr. 05, 2025 6:11:04 PM liquibase.changelog
+INFORMAÇÕES: Custom SQL executed
+abr. 05, 2025 6:11:04 PM liquibase.changelog
+INFORMAÇÕES: ChangeSet db/changelog/migrations/db.changelog-202504051747.sql::202504060001::gustavo ran successfully in 49ms
+
+UPDATE SUMMARY
+Run:                          6
+Previously run:               0
+Filtered out:                 0
+-------------------------------
+Total change sets:            6
+
+abr. 05, 2025 6:11:04 PM liquibase.util
+INFORMAÇÕES: UPDATE SUMMARY
+abr. 05, 2025 6:11:04 PM liquibase.util
+INFORMAÇÕES: Run:                          6
+abr. 05, 2025 6:11:04 PM liquibase.util
+INFORMAÇÕES: Previously run:               0
+abr. 05, 2025 6:11:04 PM liquibase.util
+INFORMAÇÕES: Filtered out:                 0
+abr. 05, 2025 6:11:04 PM liquibase.util
+INFORMAÇÕES: -------------------------------
+abr. 05, 2025 6:11:04 PM liquibase.util
+INFORMAÇÕES: Total change sets:            6
+abr. 05, 2025 6:11:04 PM liquibase.util
+INFORMAÇÕES: Update summary generated
+abr. 05, 2025 6:11:04 PM liquibase.command
+INFORMAÇÕES: Update command completed successfully.
+Liquibase: Update has been successful. Rows affected: 6
+abr. 05, 2025 6:11:04 PM liquibase.lockservice
+INFORMAÇÕES: Successfully released change log lock
+abr. 05, 2025 6:11:04 PM liquibase.command
+INFORMAÇÕES: Command execution complete
